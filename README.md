@@ -11,9 +11,9 @@ Backend implementation for an IPO Web App and REST API.
 
 ## Tech Stack
 - Python
-- MySQL
+- MySQL  
 - Flask
-- Pandas
+- Pandas 
 
 ## Note
 This project was developed as part of an internship.
