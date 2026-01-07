@@ -1,7 +1,7 @@
 import requests
 import re
 import time
-import pandas as pd
+import pandas as pd 
 import mysql.connector
 
 # ---------------- CONFIG ----------------
