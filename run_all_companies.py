@@ -3,7 +3,7 @@ import re
 import time
 import pandas as pd 
 import mysql.connector
- 
+   
 # ---------------- CONFIG ----------------
 API_URL = "https://bluemutualfund.in/server/api/company.php"
 API_KEY = "ghfkffu6378382826hhdjgk"
