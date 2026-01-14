@@ -1,5 +1,5 @@
 import mysql.connector
-  
+   
 # ---- DB CONFIG ----
 db_config = {
     "host": "localhost",
