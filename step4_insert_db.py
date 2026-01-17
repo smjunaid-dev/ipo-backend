@@ -11,7 +11,7 @@ db_config = {
 
 # ---- DATA TO INSERT (from Step 2 + Step 3) ----
 company_id = "TCS"
-compounded_sales_growth = "3 Years: 14%"
+compounded_sales_growth = "3 Years: 14%"  
 compounded_profit_growth = "3 Years: 12%"
 stock_price_cagr = "3 Years: 8%"
 roe = "3 Years: 47%"
