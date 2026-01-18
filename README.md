@@ -1,7 +1,7 @@
 # IPO Backend 
      
 Backend implementation for an IPO Web App and REST API.
-
+        
 ## Features
 - API-based data processing
 - Database integration with MySQL
